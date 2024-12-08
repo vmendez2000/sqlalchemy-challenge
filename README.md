@@ -8,4 +8,4 @@
 
 ## Part 2: Design Your Climate App
 
-### Resources used were Xpert Learning Assistant and ChaptGPT. You can find my work by navigating into the SurfsUp folder. Listed under this folder will be my app.py file and climate.ipynb file. 
+## Resources used were Xpert Learning Assistant and ChaptGPT. You can find my work by navigating into the SurfsUp folder. Listed under this folder will be my app.py file and climate.ipynb file. 
